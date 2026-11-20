@@ -1,5 +1,9 @@
 # Coy — Discover Tab Prototype
 
+<p align="center">
+  <img src="public/preview.png" alt="Coy Discover Tab Preview" width="480" />
+</p>
+
 A mobile-first swipe discovery feature built alongside Coy's existing experience using **Next.js (App Router)**, **Tailwind CSS**, **Framer Motion**, and **SQLite (`better-sqlite3`)**.
 
 ## Features
