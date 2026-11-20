@@ -25,6 +25,7 @@ coy-discover/
 │       └── db.ts                  # SQLite schema initialization & 32-profile seeder
 ├── next.config.mjs                # Configures better-sqlite3 as serverExternalPackages
 └── README.md
+```
 
 ## Tech Stack
 - **Frontend:** Next.js (App Router), React, Tailwind CSS, Framer Motion, Lucide Icons
